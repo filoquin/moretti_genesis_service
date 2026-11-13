@@ -1,3 +1,12 @@
 __pycache__/
 *.pyc
 *.pyo
+.pytest_cache/
+
+# Datos de la caja y configuracion local
+genesis-proxy.ini
+*.log
+*.jsonl
+build/
+dist/
+*.spec
